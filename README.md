@@ -1,1 +1,1 @@
-# Data-Analaytics-on-Diabetes-Dataset
+# Data-Analytics-on-Diabetes-Dataset
